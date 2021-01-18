@@ -150,8 +150,8 @@ const loadModel = async () => {
               </Paper>
             </div>
           </Grid>
-        </Grid>
-
+          </Grid>
+        <p style={{marginTop:"20px",fontSize:"19px"}}><b>NOTE:</b> This app is for educational purposes only and should not be used to diagnose or treat any medical condition.</p>
 
       </div>
     </div>
