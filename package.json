@@ -3,6 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.11.2",
+    "@material-ui/icons": "^4.11.2",
+    "@tensorflow/tfjs": "^2.7.0",
+    "@tensorflow/tfjs-backend-wasm": "^2.7.0",
+    "@tensorflow/tfjs-converter": "^2.7.0",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
